@@ -1,0 +1,46 @@
+{
+    "project_info": {
+        "project_number": "190811687408",
+        "project_id": "swd-project-eeb48",
+        "storage_bucket": "swd-project-eeb48.appspot.com"
+    },
+    "client": [
+        {
+            "client_info": {
+                "mobilesdk_app_id": "1:190811687408:android:1b5ff9e4bca7d96837b535",
+                "android_client_info": {
+                    "package_name": "com.example.laundry_middle_transportation_swd"
+                }
+            },
+            "oauth_client": [
+                {
+                    "client_id": "190811687408-76vv7ptsf73o5bildfeokjijp08jtfvk.apps.googleusercontent.com",
+                    "client_type": 3
+                }
+            ],
+            "api_key": [
+                {
+                    "current_key": "AIzaSyDFxiTbyneHVjQsakiLFiAWHSqCEA7pNv0"
+                }
+            ],
+            "services": {
+                "appinvite_service": {
+                    "other_platform_oauth_client": [
+                        {
+                            "client_id": "190811687408-76vv7ptsf73o5bildfeokjijp08jtfvk.apps.googleusercontent.com",
+                            "client_type": 3
+                        },
+                        {
+                            "client_id": "190811687408-30thoqik2kv0mcqo6bsajrj3kj5q98v0.apps.googleusercontent.com",
+                            "client_type": 2,
+                            "ios_info": {
+                                "bundle_id": "com.example.laundryMiddleTransportation"
+                            }
+                        }
+                    ]
+                }
+            }
+        }
+    ],
+    "configuration_version": "1"
+}
